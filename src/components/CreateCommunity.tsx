@@ -1,4 +1,4 @@
-import { QueryClient, useMutation, useQueryClient } from "@tanstack/react-query";
+import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { useState } from "react";
 import { useNavigate} from "react-router";
 import { supabase } from "../supabase-client";
