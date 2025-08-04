@@ -1,0 +1,4 @@
+password:
+vw0n8il6zOoHiYH6
+project url:
+https://abgsymhazklpyrdbhekf.supabase.co
